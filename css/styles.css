@@ -8,7 +8,7 @@ body {
 
 h1 {
   position:absolute;
-  left: 800px;right: auto;
+  left: 60%;right: auto;
   width: 500px;
   color: white;
   float: left;
@@ -21,7 +21,7 @@ h1 {
 
 h3 {
   position: absolute;
-  left:750px;right: auto;
+  left:57%;right: auto;
   width: 500px;
   color: white;
   margin-left: 45px;
@@ -46,7 +46,7 @@ p {
 
 .ilustration {
   position: absolute;
-  width: 50%;
+  width: 45%;
   left:30px;
   margin-left: 30px;
 }
@@ -61,7 +61,7 @@ p {
 
 .BUTTON_BNS {
   position: absolute;
-  left:750px;
+  left:56%;
   top:100px;
   background: #903DF6;
   background-image: -webkit-linear-gradient(top, #903DF6, #990099);
@@ -106,7 +106,7 @@ p {
   font-family: 'Open Sans', sans-serif;
   position: absolute;
   top:550px;
-  left:1200px;
+  left:85%;
   width: 100px;
   margin-top: 75px;
 }
